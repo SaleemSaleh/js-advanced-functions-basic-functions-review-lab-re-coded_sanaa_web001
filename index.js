@@ -1,4 +1,5 @@
 // Your code here
+<<<<<<< HEAD
 function saturdayFun (activity  = 'roller-skate'){
 
   return  "This Saturday, I want to" + " "+ activity+"!"  ;
@@ -38,3 +39,10 @@ function(a){ return a % 7 }]){
    }
    return result ;
 }
+=======
+function saturdayFun (phrase = "roller-skate"){
+
+  return phrase ;
+}
+saturdayFun("This Saturday, I want to ....!");
+>>>>>>> 65fa2d250995f5e4894a2cf16537bd02f74f2687
